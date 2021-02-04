@@ -14,6 +14,7 @@ pip install imutils
 ```
 
 # Usage
-Run following code in the terminal,
+Run following code in the terminal
+```
 python detect_blinks.py
 ```
